@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "author": "sharknado55",
+    "presets": [
+        {
+            "id": "shadcn-inspired",
+            "name": "shadcn inspired",
+            "description": "simple preset, inspired by shadcn/ui.",
+            "version": "1.0.0",
+            "configVersion": 31,
+            "path": "presets/shadcn-inspired",
+            "wallpaper": "presets/shadcn-inspired/wallpaper.jpg",
+            "banner": "presets/shadcn-inspired/banner.png",
+            "screenshots": [
+                "presets/shadcn-inspired/screenshots/1-507e279e.png"
+            ]
+        }
+    ]
+}

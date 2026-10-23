@@ -1,0 +1,21 @@
+{
+    "schema": 1,
+    "name": "shadcn inspired",
+    "author": "sharknado55",
+    "description": "simple preset, inspired by shadcn/ui.",
+    "version": "1.0.0",
+    "configVersion": 31,
+    "config": "config.json",
+    "screenshots": [
+        "screenshots/1-507e279e.png"
+    ],
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2026-10-24",
+            "notes": "First release."
+        }
+    ],
+    "wallpaper": "wallpaper.jpg",
+    "banner": "banner.png"
+}
